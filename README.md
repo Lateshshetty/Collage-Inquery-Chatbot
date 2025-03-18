@@ -1,5 +1,7 @@
 # 🤖 College Inquiry Chatbot
 
+Hosted Link : https://lateshshetty.github.io/Collage-Inquery-Chatbot/
+
 🚀 **An interactive chatbot providing instant college-related information**
 
 The **College Inquiry Chatbot** is a web-based chatbot designed to assist students, parents, and visitors by providing **quick, predefined answers** to common inquiries related to the college. Developed using **HTML, CSS, and JavaScript**, it operates without a database, ensuring **lightweight and fast performance**.
